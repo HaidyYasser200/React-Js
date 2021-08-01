@@ -1,0 +1,71 @@
+.sub{
+   background-color: aquamarine;
+   padding: 10px;
+   width: 500px;
+   border-radius: 50px;
+   
+ 
+}
+h2{
+    text-align: center;
+
+}
+label{
+    color: #0062bd;
+    font-size: 20px;
+    padding-left: 10px;
+    font-weight: bold;
+    margin-left: 20px;
+    float: left;
+
+}
+textarea{
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 7px;
+}
+p {
+    color: #0062bd;
+    font-size: 20px;
+    padding-left: 10px;
+    font-weight: bold;
+
+}
+span{
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+}
+
+.product{
+  width:30%;
+  display:inline-block;
+ margin: 5px;
+ margin-left: 20px;
+ padding: 7px;
+ list-style-type: none;
+ border: 1px solid rgb(224, 224, 224);
+
+
+}
+.product:hover{
+    border:1.5px solid gray;
+}
+img
+{
+   width: 250px;
+   height: 250px;
+   margin-left: 80px;
+  
+}
+.btn{
+    margin-right: 100px;
+    padding-right: 127px;
+    padding-left: 127px;
+    font-size: 20px;
+    background-color: coral;
+    
+}
+select{
+    width: 40px; float: left;margin-left: 5px;
+}
